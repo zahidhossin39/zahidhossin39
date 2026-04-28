@@ -88,10 +88,10 @@ I work with businesses and entrepreneurs who want to use technology as a competi
   <a href="https://www.linkedin.com/in/zahidhossin39">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://digitools-zaid.netlify.app">
+  <!-- &nbsp;&nbsp;
+  <a href="Need to add portfolio website">
     <img src="https://skillicons.dev/icons?i=netlify" width="30" alt="Portfolio" />
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href="mailto:zahidhossin39@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="30" alt="Gmail" />
