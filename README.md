@@ -85,7 +85,7 @@ I work with businesses and entrepreneurs who want to use technology as a competi
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="www.linkedin.com/in/zaid-hossain/">
+  <a href="https://www.linkedin.com/in/zaid-hossain/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn" />
   </a>
   <!-- &nbsp;&nbsp;
