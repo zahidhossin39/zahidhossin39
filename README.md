@@ -3,7 +3,7 @@
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Varela+Round&weight=700&size=24&pause=1000&color=FF6B6B;4ECDC4;FFE66D&center=true&vCenter=true&width=700&lines=🚀+AI+Automation+%26+Web+Developer;✨+I+build+the+tech.+You+focus+on+business.;💻+Websites+%C2%B7+AI+Chatbots+%C2%B7+Workflows;🎯+Turning+complex+tech+into+simple+solutions.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Varela+Round&weight=700&size=24&pause=1000&color=FF6B6B;4ECDC4;FFE66D&center=true&vCenter=true&width=700&lines=🚀+AI+Automation+Expert+%26+Web+Developer;✨+I+build+the+tech.+You+focus+on+business.;💻+Websites+%C2%B7+AI+Chatbots+%C2%B7+Workflows;🎯+Turning+complex+tech+into+simple+solutions.)](https://git.io/typing-svg)
   
 
 </div>
